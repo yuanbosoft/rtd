@@ -1,10 +1,3 @@
-高精尖中心文档
-==============
-
-.. image:: images/logo.png
-   :alt: 高精尖中心Logo
-   :width: 200px
-   :align: center
 
 欢迎使用高精尖中心官方文档
 -------------------------
